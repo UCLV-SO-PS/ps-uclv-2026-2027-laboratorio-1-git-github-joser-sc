@@ -33,7 +33,7 @@ void mostrar_uso_memoria() {
 
 int main() {
     mostrar_info_sistema();
-    printf("Versión: 3.0 -- Cambio no deseado --\n");
+    printf("Versión: 2.0 -- Conflictiva --\n");
     mostrar_uso_memoria();
     return 0;
 }
