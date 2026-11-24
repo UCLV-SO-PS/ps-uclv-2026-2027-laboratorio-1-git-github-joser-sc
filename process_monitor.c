@@ -33,6 +33,7 @@ void mostrar_uso_memoria() {
 
 int main() {
     mostrar_info_sistema();
+    printf("Versión: 1.0\n");
     mostrar_uso_memoria();
     return 0;
 }
